@@ -1,5 +1,7 @@
+import BatchingExample from "./examples/BatchingExample";
+
 function App() {
-  return <div>Work!</div>;
+  return <BatchingExample />;
 }
 
 export default App;
